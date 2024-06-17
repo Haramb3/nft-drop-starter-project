@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@metaplex/js": "^4.7.0",
+    "@metaplex/js": "^4.12.0",
     "@project-serum/anchor": "^0.18.2",
     "@solana/wallet-adapter-base": "^0.9.1",
     "@solana/web3.js": "^1.30.2",
@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.0",
     "web-vitals": "^1.0.1",
     "react-dotenv": "^0.1.0"
   },
